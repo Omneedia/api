@@ -10,7 +10,7 @@
   "keywords": [],
   "homepage": "https://github.com/Omneedia/api",
   "contributors": [],
-  "private": "true",
+  "private": true,
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
